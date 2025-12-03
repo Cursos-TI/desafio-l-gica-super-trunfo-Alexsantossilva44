@@ -1,0 +1,6 @@
+"terminal.integrated.profiles": {
+    "ucrt64": {
+        "path": "C:\\msys64\\ucrt64.exe"
+    }
+},
+"terminal.integrated.defaultProfile.windows": "ucrt64"
